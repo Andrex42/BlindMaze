@@ -67,4 +67,7 @@ CPU Cost: Since audio is generated via software, CPU usage is slightly higher co
 Respawn Physics: The generator includes a Safe Start system that momentarily disables the CharacterController during respawn to prevent physics pass-through bugs (falling through the floor).
 
 👨‍💻 Author
-Andrea Sicignano Course: Procedural and Spatial Sound Academic Year: 2025/2026 University: University of Milan
+Andrea Sicignano 
+Course: Procedural and Spatial Sound 
+Academic Year: 2025/2026 
+University: University of Milan
